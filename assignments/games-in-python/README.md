@@ -1,5 +1,5 @@
 
-# 📘 Assignment: Games in Python (Hangman)
+# 📘 Assignment: Games in Python
 
 ## 🎯 Objective
 
