@@ -4,6 +4,7 @@ applyTo: "assignments/**/*.md"
 
 # Assignment Markdown Structure Guidelines
 
+
 All assignment markdown files should follow these guidelines:
 
 ## 1. Template Usage
